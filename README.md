@@ -1,6 +1,6 @@
 # Pitch Rise - Cursor Setup Verification
 
-This repository is used to verify that Pitch Rise students have successfully set up Cursor IDE and can work with Git/GitHub.
+This repository is used to verify that Pitch Rise students have successfully set up the Cursor IDE and can work with Git/GitHub.
 
 ## 🎯 How It Works
 
