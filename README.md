@@ -16,7 +16,7 @@ Students complete the following steps to verify their Cursor setup:
 
 ## 📋 Pull Request Format
 
-**Title:** `Add verification for [YOUR-USERNAME]`
+**Title:** `Add verification for [kureen-cyber]`
 
 **Description:** Include your verification code from the Pitch Rise dashboard
 
